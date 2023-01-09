@@ -1,9 +1,3 @@
-# js-kata-starter
+# Katas
 
-Starter project for kata (Node, TypeScript, Jest)
-
-## Getting started
-
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+Implementation of katas in TypeScript using TDD
