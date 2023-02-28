@@ -1,7 +1,5 @@
 import { atm } from "./atm";
 
-const arrayNotes: number[] = [500, 200, 100, 50, 20, 10];
-
 describe("recursivAtm", () => {
   test("user can withdraw single note of 10", () => {
     //GIVEN
